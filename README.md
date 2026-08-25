@@ -1,5 +1,6 @@
 # Appic_For_Users
 Create your own Android mobile phone automation and more
+
 📱 Appic Test Automation Studio – User Guide
 Welcome to Appic! Appic is your personal assistant for automating mobile app tests. You don't need to be a coding expert to use it. If you can tap and swipe on a phone screen, you can create automated tests with Appic!
 
